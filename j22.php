@@ -27,3 +27,5 @@
     document.getElementById("box").hasAttribute("class");//it return true of false
     
 </script>
+
+
