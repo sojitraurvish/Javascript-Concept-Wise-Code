@@ -1,3 +1,6 @@
+// math object https://www.youtube.com/watch?v=oC-DjybKKRI&list=PLWCLxMult9xd7w-nBnv2s-NbJ_r_1PT7Q&index=24&pp=iAQB
+    //date object https://www.youtube.com/watch?v=ERyh9CyFCQ0&list=PLWCLxMult9xd7w-nBnv2s-NbJ_r_1PT7Q&index=26&pp=iAQB
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
